@@ -11,7 +11,7 @@
 
 ## Overview of WordPress
 
-WordPress is a free and open source content management system (CMS) based on PHP and MySQL. It is the most widely used CMS software in the world, and as of June 2021, it powers more than 40% of the top 10 million websites and has an estimated 64% market share of all websites built using a CMS.
+WordPress is a free and open source content management system (CMS) based on PHP and MySQL. It is the most widely used CMS software in the world, and as of May 2022, it powers more than 40% of the top 10 million websites and has an estimated 64% market share of all websites built using a CMS.
 
 WordPress started as a simple blogging system in 2003, but it has evolved into a full CMS with thousands of plugins, widgets, and themes. It is licensed under the General Public License (GPLv2 or later).
 
